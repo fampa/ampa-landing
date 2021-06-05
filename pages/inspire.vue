@@ -1,15 +1,25 @@
 <template>
-  <section class="section">
-    <h2 class="title is-3 has-text-grey">
-      "Just start  <b-icon
-        icon="rocket"
-        size="is-large"
-      />"
-    </h2>
-    <h3 class="subtitle is-6 has-text-grey">
-      Author: <a href="https://github.com/anteriovieira">
-        Antério Vieira
-      </a>
-    </h3>
+  <section class="section" v-if="info">
+    <h1 class="title is-3 has-text-grey">
+      {{ info.title }}
+    </h1>
+    <nuxt-content :document="info" />
   </section>
 </template>
+
+<script lang="ts">
+import { defineComponent, useContext, useAsync } from '@nuxtjs/composition-api'
+
+export default defineComponent({
+  setup () {
+    const { $content } = useContext()
+    const info = useAsync(() => {
+      return $content('hello').fetch()
+    })
+
+    return {
+      info
+    }
+  }
+})
+</script>
