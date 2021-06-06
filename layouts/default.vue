@@ -46,10 +46,10 @@
                   Gestiona la teva AMPA online
                 </p>
                 <p class="subtitle text-white">
-                  Una app de codi obert a l'abast de tothom
+                  Una app de codi obert per gestionar Associacions de Mares i Pares d'Alumnes
                 </p>
                 <p class="text-white">
-                  Si a la vostra AMPA no teniu ningú capacitat per implementar aquesta app, pode fer-vos un pressupost per implementar-la nosaltres
+                  Si necessiteu que vos ajudem a implementar aquesta app, podem fer-vos un pressupost
                 </p>
                 <br>
                 <a class="button is-white is-outlined" href="mailto:jvmonjo@gmail.com" target="_blank">
