@@ -130,6 +130,7 @@ export default {
 <style>
 footer {
   font-size: 0.8rem;
+  background: linear-gradient(to top, rgba(26, 102, 126, 1), rgba(26, 102, 126, 1),rgba(26, 102, 126, 0.9), rgba(26, 102, 126, 0.6));
 }
 html {
   background-color: "#1a667e";
