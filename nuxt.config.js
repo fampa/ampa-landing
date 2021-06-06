@@ -4,9 +4,9 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'ampa-landing',
+    title: 'AMPA PWA',
     htmlAttrs: {
-      lang: 'en'
+      lang: 'ca'
     },
     meta: [
       { charset: 'utf-8' },
