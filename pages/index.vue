@@ -34,11 +34,11 @@
         <div class="content">
           <div class="columns">
             <div class="column">
-              <h2>Menú d'administrador</h2>
               <img class="capture is-center" src="@/assets/menu-normal.png" alt="">
               <img class="capture is-center" src="@/assets/menu-admin.png" alt="">
             </div>
             <div class="column is-center">
+              <h2>Menú d'administrador</h2>
               <p class="featured">
                 Segons els permisos de l'usuari aquest tindrà accés a unes funcions o altres
               </p>
@@ -52,12 +52,12 @@
         <div class="content">
           <div class="columns">
             <div class="column is-center">
+              <h2>Gestió de membres</h2>
               <p class="featured">
                 Gestiona altes i baixes, enviament de missatges per correu electrònic i notificacions push
               </p>
             </div>
             <div class="column">
-              <h2>Gestió de membres</h2>
               <img class="capture is-center" src="@/assets/envia-missatge.png" alt="">
             </div>
           </div>
@@ -69,13 +69,13 @@
         <div class="content">
           <div class="columns">
             <div class="column">
-              <h2>Gestió de continguts</h2>
               <img class="capture is-center" src="@/assets/gestio-contingut.png" alt="">
               <img class="capture is-center" src="@/assets/gestio-contingut-2.png" alt="">
             </div>
             <div class="column is-center">
+              <h2>Gestió de continguts</h2>
               <p class="featured">
-                Gestiona articles del blog, pàgines, serveis, etiquetes i tot de manera visual i multidioma
+                Gestiona articles del blog, pàgines, serveis, etiquetes i tot de manera visual i multidioma.
               </p>
             </div>
           </div>
@@ -87,13 +87,30 @@
         <div class="content">
           <div class="columns">
             <div class="column is-center">
+              <h2>Gestió de domiciliacions <br> <span class="dev">en desenvolupament</span> </h2>
               <p class="featured">
                 Gestiona les domiciliacions bancàries, la signatura digital del document manament de domiciliacions així com el fitxer de remesa bancària
               </p>
             </div>
             <div class="column">
-              <h2>Gestió de domiciliacions <br> <span class="dev">en desenvolupament</span> </h2>
               <img class="capture is-center" src="@/assets/gestio-remesa.png" alt="">
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="bg-grey">
+      <div class="container">
+        <div class="content">
+          <div class="columns">
+            <div class="column">
+              <img class="capture is-center" src="@/assets/matriculacio.png" alt="">
+            </div>
+            <div class="column is-center">
+              <h2>Inscripció en serveis</h2>
+              <p class="featured">
+                Permet matricular en serveis amb un sol click, gestiona la capacitat del servei, el llistat de matriculats i notifica automàticament per correu electrònic.
+              </p>
             </div>
           </div>
         </div>
