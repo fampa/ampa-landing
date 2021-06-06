@@ -153,7 +153,7 @@ nav.navbar.is-transparent a{
     color: white;
 }
 .heroAlt {
-  margin-top: -3.3rem;
+  margin-top: -3.5rem;
   padding-top: 1rem;
   background: linear-gradient(rgba(26, 102, 126, 1), rgba(26, 102, 126, 1),rgba(26, 102, 126, 0.9), rgba(26, 102, 126, 0.6));
 }
