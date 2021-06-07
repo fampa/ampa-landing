@@ -6,7 +6,7 @@
           <div class="columns">
             <div class="column">
               <h2>Codi obert</h2>
-              <p>AMPA PWA és una aplicació de codi obert. Modifica-la com vulguis</p>
+              <p>AMPA PWA és una aplicació de codi obert. Modifica-la com vulguis. Les vostres dades són vostres, canvieu de proveïdor sempre que vulgueu.</p>
               <div class="text-center">
                 <img src="@/assets/opensource.png" alt="">
               </div>
