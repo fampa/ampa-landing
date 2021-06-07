@@ -20,7 +20,7 @@
             </div>
             <div class="column">
               <h2>Gratis!</h2>
-              <p>La majoria d'AMPA no requereixen molt recursos per funcionar, i normalment serà suficient usant serveis gratuïts al núvol, però també podeu autoallotjar-la</p>
+              <p>La majoria d'AMPA no requereixen molts recursos per funcionar, i normalment serà suficient usant serveis gratuïts al núvol, però també la podeu autoallotjar</p>
               <div class="text-center">
                 <img src="@/assets/payment.png" alt="">
               </div>
