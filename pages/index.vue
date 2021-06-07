@@ -116,6 +116,41 @@
         </div>
       </div>
     </section>
+    <section>
+      <div class="container">
+        <div class="content">
+          <div class="columns">
+            <div class="column">
+              <h2>Tutorials</h2>
+            </div>
+          </div>
+          <div class="columns">
+            <div class="column">
+              <iframe
+                width="560"
+                height="315"
+                src="https://www.youtube.com/embed/13Kgsa1OURY"
+                title="YouTube video player"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen
+              />
+            </div>
+            <div class="column">
+              <iframe
+                width="560"
+                height="315"
+                src="https://www.youtube.com/embed/QaIEomSMjLs"
+                title="YouTube video player"
+                frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
   </div>
 </template>
 
