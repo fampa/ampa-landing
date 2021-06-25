@@ -13,7 +13,7 @@
             </div>
             <div class="column">
               <h2>Aplicació Web Progressiva (PWA)</h2>
-              <p>Es tracta d'una aplicació web que s'adapta a qualsevol mida de pantalla i dispositiu i permet instal·lar-se i rebre notificacions</p>
+              <p>Es tracta d'una aplicació web que s'adapta a qualsevol mida de pantalla i dispositiu, funciona fora de línia, permet instal·lar-se i rebre notificacions.</p>
               <div class="text-center">
                 <img src="@/assets/pwa.png" alt="">
               </div>
@@ -87,7 +87,7 @@
         <div class="content">
           <div class="columns">
             <div class="column is-center">
-              <h2>Gestió de domiciliacions <br> <span class="dev">en desenvolupament</span> </h2>
+              <h2>Gestió de domiciliacions <br> <span class="dev">beta</span> </h2>
               <p class="featured">
                 Gestiona les domiciliacions bancàries, la signatura digital del document manament de domiciliacions així com el fitxer de remesa bancària
               </p>
