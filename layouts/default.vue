@@ -77,7 +77,7 @@
           <div class="columns">
             <div class="column">
               <h3 class="text-white">
-                AMPA PWA
+                AMPA OBERTA
               </h3><div class="buttons">
                 <a class="button is-primary" style="color:white; background:#0f3946;" href="https://github.com/fampa/ampa-pwa" target="_blank">
                   <b-icon
