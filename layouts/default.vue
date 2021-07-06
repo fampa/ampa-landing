@@ -4,7 +4,7 @@
       <b-navbar :transparent="true">
         <template #brand>
           <b-navbar-item class="site-title" tag="router-link" :to="{ path: '/' }">
-            AMPA PWA
+            AMPA OBERTA
           </b-navbar-item>
         </template>
         <template #start>

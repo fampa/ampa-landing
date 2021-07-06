@@ -6,7 +6,7 @@
           <div class="columns">
             <div class="column">
               <h2>Codi obert</h2>
-              <p>AMPA PWA és una aplicació de codi obert. Modifica-la com vulguis. Les vostres dades són vostres, canvieu de proveïdor sempre que vulgueu.</p>
+              <p>AMPA OBERTA és una aplicació de codi obert. Modifica-la com vulguis. Les vostres dades són vostres, canvieu de proveïdor sempre que vulgueu.</p>
               <div class="text-center">
                 <img src="@/assets/opensource.png" alt="">
               </div>
@@ -20,7 +20,7 @@
             </div>
             <div class="column">
               <h2>Gratis!</h2>
-              <p>La majoria d'AMPA no requereixen molts recursos per funcionar, i normalment serà suficient usant serveis gratuïts al núvol, però també la podeu autoallotjar</p>
+              <p>AMPA OBERTA és gratuïta. A més a més, la majoria d'AMPA no requereixen molts recursos per funcionar, i normalment serà suficient usant serveis gratuïts al núvol, però també la podeu autoallotjar.</p>
               <div class="text-center">
                 <img src="@/assets/payment.png" alt="">
               </div>
@@ -75,7 +75,7 @@
             <div class="column is-center">
               <h2>Gestió de continguts</h2>
               <p class="featured">
-                Gestiona articles del blog, pàgines, serveis, etiquetes i tot de manera visual i multidioma.
+                Gestiona articles del blog, pàgines, serveis, etiquetes, enllaços i tot de manera visual i multiidioma.
               </p>
             </div>
           </div>
